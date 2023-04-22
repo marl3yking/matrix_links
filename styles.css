@@ -12,7 +12,7 @@ body {
     flex-direction: column;
     width: 100vw;
     font-family: Verdana, Tahoma, sans-serif;
-    background-image: url(./images/nebula_background.png);
+    background-image: url(./nebula_background.png);
     height: 100%;
     background-repeat: no-repeat;
     background-position: center;
