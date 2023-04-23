@@ -89,6 +89,10 @@ h1 {
     transition-delay: 0s;
 }
 
+.social-media-icons {
+    pointer-events: none;
+}
+
 a {
     text-decoration: none;
     color: rgb(240,240,240);
@@ -103,6 +107,7 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    pointer-events: none;
 }
 
 .tile:hover {
